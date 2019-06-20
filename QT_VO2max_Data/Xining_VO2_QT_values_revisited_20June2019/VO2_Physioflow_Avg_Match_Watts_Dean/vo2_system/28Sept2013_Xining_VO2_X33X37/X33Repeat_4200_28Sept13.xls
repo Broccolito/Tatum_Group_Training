@@ -1,0 +1,35 @@
+CareFusion Germany 234 GmbH											t
+Leibnizstrasse 7											
+"97204 Hoechberg, Germany"											
+
+Last Name:	X33 Again 4200	Identification:	X33 AGAIN 4200								
+First Name:	X33 Again 4200										
+
+Date of Birth:	1991-12-29	Age:	21 Years								
+Sex:	female	Height:	153 cm								
+		Weight:	50 kg								
+
+
+Oxycon											
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle								
+
+ Time   	 Load   	  HR    	V'E     	  BF    	 Psys   	 Pdia   	 V'O2   	 V'CO2  	  RER   	VDe/VT  	
+  min   	   W    	 1/min  	 L/min  	 1/min  	 mmHg   	 mmHg   	ml/min  	ml/min  	        	   %    	
+        	        	        	        	        	        	        	        	        	        	        	
+  00:30 	20	111	10	17	0	0	285	235	0.83	11	rest
+  01:00 	20	110	11	15	0	0	294	251	0.85	15	
+  01:30 	20	104	11	21	0	0	277	233	0.84	11	
+  02:00 	20	106	10	16	0	0	281	234	0.83	13	
+  02:30 	20	109	10	15	0	0	256	217	0.85	13	
+  02:58 	20	113	11	18	0	0	294	248	0.84	14	start 45w
+  03:30 	26	129	19	22	0	0	527	444	0.84	18	
+  04:00 	32	0	23	22	0	0	693	584	0.84	18	
+  04:30 	41	0	27	22	0	0	780	722	0.93	19	
+  05:00 	47	0	29	23	0	0	819	793	0.97	20	
+  05:30 	56	0	29	22	0	0	799	790	0.99	20	
+  06:00 	62	0	32	25	0	0	852	855	1	19	start 75w
+  06:30 	71	0	33	26	0	0	872	865	0.99	20	
+  07:00 	77	136	39	28	0	0	972	1028	1.06	21	ABG @ 75w - submax
+  07:30 	86	0	41	28	0	0	1031	1115	1.08	20	start 90w
+  08:00 	92	0	47	31	0	0	1090	1225	1.12	22	ABG @ 90w - max
+  08:30 	101	0	46	29	0	0	733	831	1.13	   -    	subject could not continue

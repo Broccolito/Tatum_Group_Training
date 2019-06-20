@@ -1,0 +1,37 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X35 42redo	Identification:	X35 42REDO															
+First Name:	X35 42redo																	
+																		
+Date of Birth:	12/23/1990	Age:	22 Years															
+Sex:	female	Height:	151 cm															
+		Weight:	41 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	92	11	24	266	244	0.92	9	rest 									
+  01:00 	20	90	10	25	230	215	0.93	9										
+  01:30 	20	90	11	25	239	223	0.93	9										
+  02:00 	20	86	11	26	229	211	0.92	9										
+  02:30 	20	85	10	26	221	201	0.91	8	ABG @ rest			88.60	10.60	25.20	237.00	218.80	0.92	8.80
+  02:56 	20	86	9	27	199	177	0.89	3										
+  03:00 	20	88	11	26	248	221	0.89	11	start 45w									
+  03:30 	26	114	16	33	383	328	0.86	13										
+  04:00 	35	135	22	34	594	498	0.84	17										
+  04:30 	41	150	30	37	769	726	0.94	20										
+  05:00 	47	154	31	36	772	793	1.03	20										
+  05:30 	56	158	32	36	742	791	1.07	21										
+  06:00 	62	162	35	39	799	869	1.09	21	start 60w; start 75w at 7:15									
+  06:30 	71	168	33	40	790	834	1.06	20										
+  07:00 	77	170	39	38	943	1032	1.09	21	start 90w									
+  07:30 	86	173	40	41	976	1091	1.12	21										
+  08:00 	92	176	47	43	1080	1279	1.18	22	ABG @ 90w - submax1; ABG @ 90w - submax2			173.00	42.00	40.67	999.67	1134.00	1.13	21.33
+  08:30 	101	177	52	44	1128	1373	1.22	22										
+  09:00 	107	179	52	45	1111	1345	1.21	23	ABG @ 90w - max; subject could not continue			175.00	46.00	42.20	1047.60	1224.00	1.16	21.80

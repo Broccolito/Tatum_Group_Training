@@ -1,0 +1,37 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X17 4200	Identification:	X17 4200 NUBU ZHAXI															
+First Name:	Nubu Zhaxi 4200																	
+																		
+Date of Birth:	6/13/1992	Age:	21 Years															
+Sex:	male	Height:	164 cm															
+		Weight:	56 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	89	17	26	374	320	0.86	23	rest									
+  01:00 	20	87	19	26	402	349	0.87	25										
+  01:30 	20	87	16	19	300	290	0.97	22	ABG @ rest			87.67	17.33	23.67	358.67	319.67	0.90	23.33
+  02:00 	20	91	14	24	272	235	0.86	23										
+  02:30 	20	86	16	27	330	284	0.86	24										
+  02:59 	20	84	20	23	400	374	0.94	24	start 60w									
+  03:30 	26	126	35	31	848	760	0.9	23										
+  04:00 	32	128	36	32	882	791	0.9	25										
+  04:30 	41	126	39	32	978	894	0.91	28										
+  05:00 	47	128	39	29	1006	950	0.94	21										
+  05:30 	56	125	44	35	1065	1051	0.99	23										
+  06:00 	62	133	42	33	1023	1007	0.98	24	start 120w									
+  06:30 	71	148	52	38	1189	1224	1.03	26										
+  07:00 	77	160	65	41	1393	1580	1.13	26	start 150w									
+  07:30 	86	168	76	44	1456	1787	1.23	28	start 165w									
+  08:00 	92	173	88	47	1533	2028	1.32	30										
+  08:30 	101	175	100	55	1573	2196	1.4	33	ABG @ 165w - submax1; start 180w			172.00	88.00	48.67	1520.67	2003.67	1.32	30.33
+  09:00 	107	179	117	55	1721	2505	1.46	31	ABG @ 180w - submax2; start 195			177.00	108.50	55.00	1647.00	2350.50	1.43	32.00
+  09:14 	113	178	123	57	1751	2548	1.46	31	ABG @ 195w - max; subject had stop			178.50	120.00	56.00	1736.00	2526.50	1.46	31.00

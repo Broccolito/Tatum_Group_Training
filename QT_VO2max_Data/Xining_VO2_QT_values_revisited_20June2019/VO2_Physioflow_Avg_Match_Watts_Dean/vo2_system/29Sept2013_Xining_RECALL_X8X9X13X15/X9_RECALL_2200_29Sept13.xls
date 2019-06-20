@@ -1,0 +1,34 @@
+CareFusion Germany 234 GmbH										
+Leibnizstrasse 7										
+"97204 Hoechberg, Germany"										
+
+Last Name:	X9 Recall 2200	Identification:	X9 RECALL 2200							
+First Name:	X9 Recall 2200									
+
+Date of Birth:	1990-1-1	Age:	23 Years							
+Sex:	female	Height:	157 cm							
+		Weight:	49 kg							
+
+
+Oxycon										
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle							
+
+ Time   	 Load   	  HR    	V'E     	  BF    	 Psys   	 Pdia   	 V'O2   	 V'CO2  	  RER   	VDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	 mmHg   	 mmHg   	ml/min  	ml/min  	        	   %    	
+        	        	        	        	        	        	        	        	        	        	        	
+  00:30 	20	84	8	23	0	0	177	143	0.81	12	rest
+  01:00 	20	89	9	22	0	0	182	149	0.82	18	
+  01:30 	20	92	9	22	0	0	195	159	0.81	17	
+  02:00 	20	98	11	23	0	0	245	199	0.81	18	start 45w
+  02:30 	20	106	16	27	0	0	405	319	0.79	20	
+  02:58 	20	114	19	28	0	0	562	430	0.77	20	
+  03:30 	26	117	23	28	0	0	646	546	0.84	21	
+  04:00 	32	119	26	28	0	0	687	640	0.93	22	
+  04:30 	41	124	27	29	0	0	700	687	0.98	22	
+  05:00 	47	119	27	29	0	0	678	681	1.01	22	
+  05:30 	56	123	30	32	0	0	697	716	1.03	23	
+  06:00 	62	126	31	31	0	0	711	737	1.04	23	strat 90w
+  06:30 	71	138	38	35	0	0	835	898	1.08	24	
+  07:00 	77	146	45	36	0	0	939	1103	1.17	24	
+  07:30 	86	153	52	39	0	0	978	1242	1.27	25	stop at 7:45
+  08:00 	89	155	55	40	0	0	962	1253	1.3	   -    	

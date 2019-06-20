@@ -1,0 +1,30 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X13 4200	Identification:	X13 LIYINGQIAO 4200															
+First Name:	Li Ying Qiao																	
+																		
+Date of Birth:	4/24/1991	Age:	22 Years															
+Sex:	female	Height:	163 cm															
+		Weight:	66 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	101	6	18	157	120	0.76	   -    	rest									
+  01:00 	20	93	5	18	148	111	0.75	   -    										
+  01:30 	20	100	6	18	149	115	0.77	   -    										
+  02:00 	20	93	5	22	143	108	0.76	   -    	ABG @ rest			96.75	5.5	19	149.25	113.5	0.76	-
+  02:30 	20	100	5	22	132	99	0.75	   -    										
+  02:58 	20	112	7	22	214	166	0.78	   -    	start 45w									
+  03:30 	26	127	11	25	315	245	0.78	3										
+  04:00 	32	146	20	27	546	453	0.83	8										
+  04:30 	41	150	27	28	699	639	0.91	9										
+  05:00 	47	154	29	32	757	705	0.93	8	ABG @ 45w			137.8	18.8	26.8	506.2	441.6	0.846	7
+  05:30 	53	154	28	31	688	664	0.97	   -    	Subject stopped									
+  05:49 	62	154	0	4	0	0	0	0										

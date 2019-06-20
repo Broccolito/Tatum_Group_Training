@@ -1,0 +1,37 @@
+CareFusion Germany 234 GmbH																			
+Leibnizstrasse 7																			
+"97204 Hoechberg, Germany"																			
+																			
+Last Name:	X5 4200	Identification:	X5 4200																
+First Name:	Zhang Liang Yu																		
+																			
+Date of Birth:	4/3/1990	Age:	23 Years																
+Sex:	male	Height:	170.5 cm																
+		Weight:	55 kg																
+																			
+																			
+Oxycon																			
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle																
+																			
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  	
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    											
+        	        	        	        	        	        	        	        	        											
+  00:30 	20	105	9	16	277	224	0.81	8	rest										
+  01:00 	20	101	9	15	265	220	0.83	9											
+  01:30 	20	102	9	14	250	210	0.84	10											
+  02:00 	20	101	7	15	198	166	0.84	7	ABG @ rest			102.25	8.50	15.00	247.50	205.00	0.83	8.50	
+  02:30 	20	104	8	17	237	190	0.8	7											
+  02:57 	20	102	9	17	265	213	0.8	7	start 60w										
+  03:30 	26	117	14	29	355	289	0.81	9											
+  04:00 	35	127	19	31	532	423	0.79	13											
+  04:30 	41	138	23	26	682	585	0.86	14											
+  05:00 	47	143	25	24	723	674	0.93	14											
+  05:30 	56	150	27	26	744	743	1	13											
+  06:00 	62	157	30	31	777	803	1.03	14	start 90w										
+  06:30 	71	163	32	30	792	835	1.06	14											
+  07:00 	77	171	36	30	851	925	1.09	15											
+  07:30 	86	174	42	30	983	1109	1.13	17	ABG @ 90w - submax			166.25	35.00	30.25	850.75	918.00	1.08	15.00	
+  08:00 	95	179	48	34	1068	1222	1.14	17	start 105w										
+  08:30 	101	182	56	36	1146	1337	1.17	18	start 120w										
+  09:00 	107	184	61	40	1163	1391	1.2	18	ABG @120w - max			183.00	58.50	38.00	1154.50	1364.00	1.19	18.00	
+  09:30 	116	185	64	43	1161	1398	1.2	19	subject stopped										

@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X11 4200	Identification:	X11 CHENMINHYUE 4200															
+First Name:	Chen Ming Yue 4200m																	
+																		
+Date of Birth:	4/15/1990	Age:	23 Years															
+Sex:	female	Height:	165 cm															
+		Weight:	54.4 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	100	9	19	229	209	0.91	5	rest									
+  01:00 	20	95	8	20	201	183	0.91	1										
+  01:30 	20	93	10	19	252	229	0.91	6										
+  02:00 	20	101	12	18	270	260	0.96	10										
+  02:30 	20	93	8	19	167	160	0.96	2										
+  02:59 	20	88	8	21	179	165	0.92	3	ABG @ rest			95.00	9.17	19.33	216.33	201.00	0.93	4.50
+  03:30 	26	96	9	21	207	184	0.89	5										
+  04:00 	32	99	11	22	247	231	0.93	7	start 45w									
+  04:30 	41	128	20	31	483	438	0.91	9										
+  05:00 	47	129	21	31	560	519	0.93	10										
+  05:30 	56	138	25	32	637	630	0.99	12										
+  06:00 	62	139	27	32	638	679	1.06	13										
+  06:30 	71	136	26	32	606	644	1.06	13										
+  07:00 	77	135	26	33	620	653	1.05	12	start 90w									
+  07:30 	86	150	28	31	699	727	1.04	13	ABG @ 90w - submax			142.50	27.00	32.00	659.50	690.00	1.05	12.50
+  08:00 	92	160	33	32	791	882	1.11	15	ABG @ 90w - max			148.33	29.00	32.00	703.33	754.00	1.07	13.33
+  08:30 	101	150	33	27	765	918	1.2	15	Subject stopped									
+  08:55 	107	141	14	14	191	246	1.29	14										

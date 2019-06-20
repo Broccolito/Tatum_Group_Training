@@ -1,0 +1,38 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X9	Identification:	X9 LU XIN YING															
+First Name:	Lu Xin Ying																	
+																		
+Date of Birth:	12/10/1992	Age:	20 Years															
+Sex:	female	Height:	157 cm															
+		Weight:	49 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	94	5	25	127	98	0.77	   -    	rest									
+  01:00 	20	94	5	24	119	91	0.77	   -    										
+  01:30 	20	97	5	25	119	91	0.77	   -    										
+  02:00 	20	94	6	28	142	112	0.79	   -    										
+  02:30 	20	98	6	24	143	116	0.81	   -    										
+  02:59 	20	94	6	25	140	112	0.8	   -    	ABG @ rest			95.17	5.50	25.17	131.67	103.33	0.79	#DIV/0!
+  03:30 	26	96	5	25	120	96	0.8	   -    										
+  04:00 	32	111	7	23	185	157	0.85	2	start 45w									
+  04:30 	41	122	12	31	343	277	0.81	5										
+  05:00 	47	124	15	31	460	385	0.84	7										
+  05:30 	56	129	18	33	514	486	0.94	10										
+  06:00 	62	134	20	32	526	540	1.03	13										
+  06:30 	71	134	20	34	497	524	1.05	13										
+  07:00 	80	133	20	34	509	528	1.04	13										
+  07:30 	86	138	20	32	520	546	1.05	14										
+  08:00 	92	140	21	36	507	533	1.05	13	start 90w									
+  08:30 	101	149	24	37	570	608	1.07	15										
+  09:00 	107	157	28	42	640	738	1.15	15										
+  09:30 	116	164	31	41	632	807	1.28	16	ABG @ 90w - submax; ABG @ 90 - max			152.50	26.00	39.00	587.25	671.50	1.14	14.75
+									subject stopped at 9:45 when last blood gas taken 									

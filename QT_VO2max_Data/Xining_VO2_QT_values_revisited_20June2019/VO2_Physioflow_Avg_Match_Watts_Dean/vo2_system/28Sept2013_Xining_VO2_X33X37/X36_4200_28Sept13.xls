@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X36redo 4200	Identification:	X36REDO 4200															
+First Name:	X36redo 4200																	
+																		
+Date of Birth:	7/10/1992	Age:	21 Years															
+Sex:	female	Height:	155 cm															
+		Weight:	44 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	109	11	18	290	233	0.8	12	rest									
+  01:00 	20	109	12	20	310	250	0.81	14										
+  01:30 	20	102	11	19	288	236	0.82	14										
+  02:00 	20	103	11	17	269	225	0.84	12	ABG @ rest			105.75	11.25	18.50	289.25	236.00	0.82	13.00
+  02:30 	20	101	12	21	295	241	0.82	11										
+  02:57 	20	112	12	20	305	250	0.82	13	start 60w									
+  03:30 	26	148	20	25	556	440	0.79	17										
+  04:00 	32	158	31	29	862	734	0.85	18										
+  04:30 	41	158	34	30	877	865	0.99	16										
+  05:00 	47	163	44	38	1040	1108	1.07	15										
+  05:30 	56	166	43	38	969	1066	1.1	15										
+  06:00 	62	170	47	38	1058	1162	1.1	16	start 75w									
+  06:30 	71	175	49	41	1110	1210	1.09	14	ABG @ 70w - submax (only sample during exercise)			172.50	48.00	39.50	1084.00	1186.00	1.10	15.00
+  07:00 	80	179	59	46	1251	1401	1.12	13	"start 90w - subject's feet fell off pedals - tried to get ABG at 90, but unable"									
+  07:30 	86	179	64	47	1322	1476	1.12	13										
+  08:00 	92	182	66	48	1299	1445	1.11	14	Subject had to stop at 8:15 - good effort until then									
+  08:30 	101	183	66	49	959	1044	1.09	49										
+									Took post-exercise venous sample for lactate									

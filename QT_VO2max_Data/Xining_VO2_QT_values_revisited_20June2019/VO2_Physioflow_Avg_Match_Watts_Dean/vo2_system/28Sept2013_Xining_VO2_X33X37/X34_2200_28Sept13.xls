@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X34 2200	Identification:	X34 4200 GEDAN LAMU															
+First Name:	GeDan LaMu 2200																	
+																		
+Date of Birth:	12/9/1992	Age:	20 Years															
+Sex:	female	Height:	170 cm															
+		Weight:	63 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	103	14	20	320	298	0.93	19	rest									
+  01:00 	20	106	14	20	307	295	0.96	19										
+  01:30 	20	106	15	20	299	307	1.03	21										
+  02:00 	20	102	13	18	268	275	1.03	20	ABG @ rest			104.25	14.00	19.50	298.50	293.75	0.99	19.75
+  02:30 	20	88	11	19	226	218	0.97	18										
+  02:59 	20	99	14	23	304	287	0.94	20	start 45w									
+  03:30 	26	123	23	28	535	499	0.93	21										
+  04:00 	35	131	28	30	732	654	0.89	22										
+  04:30 	41	138	32	34	823	789	0.96	21										
+  05:00 	47	144	36	33	835	885	1.06	23										
+  05:30 	56	146	37	36	841	891	1.06	22										
+  06:00 	62	152	43	38	912	1030	1.13	24	start 90w									
+  06:30 	71	159	48	40	1050	1158	1.1	25										
+  07:00 	77	163	57	44	1142	1347	1.18	26	ABG @ 90w - submax1; start 105w			158.00	49.33	40.67	1034.67	1178.33	1.14	25.00
+  07:30 	86	167	72	49	1320	1628	1.23	29	start 120w; ABG @ 120w - submax2; start 135w			165.00	64.50	46.50	1231.00	1487.50	1.21	27.50
+  08:00 	95	169	73	48	1362	1705	1.25	27										
+  08:30 	101	170	64	42	1336	1642	1.23	27	ABG @ 135w - max (air in sample); subject could not continue			168.67	69.67	46.33	1339.33	1658.33	1.24	27.67
+  08:42 	104	164	46	33	981	1291	1.32	24										

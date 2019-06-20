@@ -1,0 +1,32 @@
+CareFusion Germany 234 GmbH
+Leibnizstrasse 7
+97204 Hoechberg, Germany
+			
+Last Name:	X9 4200 Recall	Identification:	X9 4200 RECALL
+First Name:	X9 4200 Recall		
+			
+Date of Birth:	1990-1-01	Age:	23 Years
+Sex:	female	Height:	157 cm
+		Weight:	49 kg
+	
+
+Oxycon
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle
+
+ Time   	 Load   	  HR    	V'E     	  BF    	 Psys   	 Pdia   	 V'O2   	 V'CO2  	  RER   	VDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	 mmHg   	 mmHg   	ml/min  	ml/min  	        	   %    
+        	        	        	        	        	        	        	        	        	        	        
+  00:30 	    20  	     0  	    10  	    19  	     0  	     0  	   238  	   206  	 0.86   	     7  
+  01:00 	    20  	   111  	    10  	    17  	     0  	     0  	   230  	   204  	 0.89   	    10  
+  01:30 	    20  	    93  	    10  	    16  	     0  	     0  	   218  	   198  	 0.91   	   -    
+  02:00 	    20  	     0  	    11  	    22  	     0  	     0  	   271  	   236  	 0.87   	    10  
+  02:30 	    20  	    92  	    19  	    24  	     0  	     0  	   447  	   390  	 0.87   	    15  
+  02:59 	    20  	   104  	    26  	    23  	     0  	     0  	   671  	   588  	 0.88   	    17  
+  03:30 	    26  	   117  	    30  	    26  	     0  	     0  	   735  	   695  	 0.95   	    18  
+  04:00 	    32  	   133  	    33  	    26  	     0  	     0  	   757  	   740  	 0.98   	    20  
+  04:30 	    41  	   137  	    32  	    26  	     0  	     0  	   776  	   745  	 0.96   	    19  
+  05:00 	    47  	   141  	    34  	    29  	     0  	     0  	   807  	   785  	 0.97   	    20  
+  05:30 	    56  	   147  	    37  	    28  	     0  	     0  	   856  	   854  	 1.00   	    20  
+  06:00 	    62  	   153  	    43  	    29  	     0  	     0  	   972  	  1027  	 1.06   	    20  
+  06:30 	    71  	   160  	    55  	    36  	     0  	     0  	  1041  	  1195  	 1.15   	    23  
+

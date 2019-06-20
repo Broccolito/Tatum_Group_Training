@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X37 2200	Identification:	X37 DAQU ZHEN 2200															
+First Name:	Daqu Zhen 2200																	
+																		
+Date of Birth:	4/2/1992	Age:	21 Years															
+Sex:	female	Height:	154 cm															
+		Weight:	53.5 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	75	10	22	210	195	0.93	10	rest									
+  01:00 	20	79	12	22	239	227	0.95	13										
+  01:30 	20	79	11	20	229	220	0.96	12										
+  02:00 	20	85	12	24	239	227	0.95	12	ABG @ rest			79.50	11.25	22.00	229.25	217.25	0.95	11.75
+  02:30 	20	77	11	22	233	220	0.94	11										
+  02:56 	20	73	11	22	224	219	0.98	12										
+  03:00 	20	77	17	24	363	366	1.01	17	start 45w									
+  03:30 	26	102	17	20	410	405	0.99	17										
+  04:00 	32	105	21	24	666	535	0.8	17										
+  04:30 	41	111	27	28	820	701	0.85	20										
+  05:00 	47	113	31	28	857	815	0.95	19										
+  05:30 	56	111	31	29	819	811	0.99	20										
+  06:00 	62	117	34	31	934	931	1	20	start 90w									
+  06:30 	71	127	39	30	1047	1075	1.03	21	strat 105w									
+  07:00 	77	139	45	31	1190	1305	1.1	22										
+  07:30 	86	149	53	34	1239	1487	1.2	23	ABG @ 105w - submax1; start 120w			138.33	45.67	31.67	1158.67	1289.00	1.11	22.00
+  08:00 	95	161	62	37	1360	1715	1.26	23	ABG @ 120w - submax2 at 7:45; ABG @ 120w - max			155.00	57.50	35.50	1299.50	1601.00	1.23	23.00
+									Subject could not continue at 8:15									

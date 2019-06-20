@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X23 4200	Identification:	X23 4200 LIJIACAIRAN															
+First Name:	LiJia CaiRang 4200																	
+																		
+Date of Birth:	4/25/1989	Age:	24 Years															
+Sex:	male	Height:	167 cm															
+		Weight:	61.5 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	97	15	22	359	319	0.89	34	rest 									
+  01:00 	20	94	15	21	337	298	0.88	26										
+  01:30 	20	91	17	22	377	342	0.91	23	ABG @ rest			94.00	15.67	21.67	357.67	319.67	0.89	27.67
+  02:00 	20	85	15	25	339	291	0.86	25										
+  02:30 	20	88	18	24	422	379	0.9	24										
+  02:58 	20	102	19	21	454	432	0.95	24	start 60w									
+  03:30 	26	123	26	25	709	639	0.9	23										
+  04:00 	32	138	36	26	1009	957	0.95	24										
+  04:30 	41	142	45	28	1179	1221	1.04	24										
+  05:00 	47	141	43	28	1086	1159	1.07	23										
+  05:30 	56	145	46	30	1155	1246	1.08	23										
+  06:00 	62	143	47	33	1139	1240	1.09	24	start 120w									
+  06:30 	71	162	58	34	1372	1526	1.11	24										
+  07:00 	77	172	69	37	1550	1847	1.19	24	start 150w									
+  07:30 	86	181	86	41	1680	2186	1.3	26	AGB @ 150w - submax1; ABG @ 150w - submax2			176.50	77.50	39.00	1615.00	2016.50	1.25	25.00
+  08:00 	92	187	100	46	1766	2409	1.36	27	start 165w									
+  08:30 	101	186	85	40	1191	1655	1.39	21	ABG @ 165w - max at 8:10			186.50	92.50	43.00	1478.50	2032.00	1.38	24.00
+									subject had to stop at 8:15									

@@ -1,0 +1,38 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X10	Identification:	X10 CUI YANG YANG															
+First Name:	Cui Yang Yang																	
+																		
+Date of Birth:	7/16/1991	Age:	22 Years															
+Sex:	female	Height:	159.5 cm															
+		Weight:	56 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	0	85	13	27	250	248	0.99	14	rest									
+  01:00 	0	89	13	26	247	243	0.98	15										
+  01:30 	0	88	11	26	227	216	0.95	15	ABG @ rest			87.33	12.33	26.33	241.33	235.67	0.97	14.67
+  02:00 	0	82	11	26	242	223	0.92	14										
+  02:30 	0	106	15	25	315	318	1.01	20	start 45w									
+  03:00 	0	112	20	31	501	452	0.9	22										
+  03:30 	20	112	22	30	615	528	0.86	23										
+  04:00 	20	116	25	30	728	640	0.88	24										
+  04:30 	20	119	30	30	841	817	0.97	24										
+  05:00 	20	120	31	31	795	837	1.05	24										
+  05:30 	20	121	32	33	804	852	1.06	24										
+  06:00 	20	121	32	34	794	854	1.07	24										
+  06:30 	26	122	31	30	802	843	1.05	24	start 90w									
+  07:00 	32	130	33	32	870	899	1.03	24										
+  07:30 	41	139	40	34	1064	1126	1.06	25	start 105w									
+  08:00 	47	143	44	36	1099	1261	1.15	25										
+  08:30 	56	150	49	39	1159	1377	1.19	26	ABG @ 105w -submax			144.00	44.33	36.33	1107.33	1254.67	1.13	25.33
+  09:00 	62	156	53	40	1249	1513	1.21	26	start 120w									
+  09:30 	71	160	63	45	1307	1656	1.27	28	ABG @ 120w - max			158.00	58.00	42.50	1278.00	1584.50	1.24	27.00
+									subject stopped at 9:45									

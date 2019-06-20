@@ -1,0 +1,37 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X32 2200	Identification:	X32 2200 SUTINGTING															
+First Name:	Su Ting Ting 2200																	
+																		
+Date of Birth:	7/3/1991	Age:	22 Years															
+Sex:	female	Height:	158 cm															
+		Weight:	48															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:00 	0	74	16	   -    	647	525	0.81	   -    	rest									
+  00:30 	20	81	14	21	301	277	0.92	18										
+  01:00 	20	75	9	18	203	181	0.89	14										
+  01:30 	20	75	12	22	282	245	0.87	17										
+  02:00 	20	74	11	23	258	226	0.88	15	ABG @ rest			75.80	12.40	21.00	338.20	290.80	0.87	16.00
+  02:30 	20	75	12	24	278	246	0.88	16										
+  03:00 	20	93	13	21	301	278	0.93	18	start 45w									
+  03:30 	26	110	19	29	448	394	0.88	20										
+  04:00 	32	114	23	31	657	515	0.78	22										
+  04:30 	41	119	28	32	800	698	0.87	23										
+  05:00 	47	124	29	32	780	753	0.96	22										
+  05:30 	56	128	32	34	788	798	1.01	24										
+  06:00 	62	133	35	34	828	869	1.05	19	start 90w									
+  06:30 	71	145	39	37	924	970	1.05	25	start 105w									
+  07:00 	77	153	46	39	1071	1165	1.09	26										
+  07:30 	86	154	59	47	1179	1442	1.22	27	ABG @ 120w - submax1			153.50	52.50	43.00	1125.00	1303.50	1.16	26.50
+  08:00 	92	0	68	50	1237	1593	1.29	29	start 135w									
+  08:30 	101	0	79	57	1291	1701	1.32	31	ABG @ 135w - submax2; 8:15 ABG @ 135w - max 			0.00	73.50	53.50	1264.00	1647.00	1.31	30.00
+  09:00 	107	0	72	49	1173	1595	1.36	29	Subject could not continue at 8:40									

@@ -1,0 +1,37 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X23 2200	Identification:	X23 2200 LI JIA CAI 															
+First Name:	Li Jia Cai Rang 2200																	
+																		
+Date of Birth:	4/25/1989	Age:	24 Years															
+Sex:	male	Height:	167 cm															
+		Weight:	61.5 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	79	15	21	339	301	0.89	25	rest									
+  01:00 	20	76	14	17	315	290	0.92	24										
+  01:30 	20	81	14	22	324	282	0.87	25										
+  02:00 	20	77	14	22	318	274	0.86	25	AGB @ rest			78.25	14.25	20.50	324.00	286.75	0.89	24.75
+  02:30 	20	84	16	23	330	301	0.91	25										
+  02:59 	20	108	17	21	402	363	0.9	24	start 60w									
+  03:30 	26	119	22	25	689	547	0.79	25										
+  04:00 	32	126	36	24	1175	987	0.84	23										
+  04:30 	41	123	37	25	1145	1071	0.94	23										
+  05:00 	47	121	39	25	1126	1098	0.98	23										
+  05:30 	56	122	36	25	1068	1045	0.98	23										
+  06:00 	62	125	45	29	1214	1217	1	25	strat 120w									
+  06:30 	71	140	50	29	1384	1389	1	24										
+  07:00 	77	156	61	35	1593	1692	1.06	25	start 150w									
+  07:30 	86	171	63	35	1621	1805	1.11	24										
+  08:00 	92	176	81	39	1923	2272	1.18	25	ABG @ 150w - submax1			167.67	68.33	36.33	1712.33	1923.00	1.12	24.67
+  08:30 	101	181	84	41	1851	2290	1.24	26	ABG @ 150w - submax2; start 165w			171.00	72.25	37.50	1747.00	2014.75	1.15	25.00
+  09:00 	107	190	103	45	1982	2605	1.31	27	ABG @ 165w - max			185.50	93.50	43.00	1916.50	2447.50	1.28	26.50
+									subject had to stop 									

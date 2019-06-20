@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X24 2200	Identification:	X24 2400 LUOSANG															
+First Name:	LuoSang JiaCai 2200																	
+																		
+Date of Birth:	9/12/1990	Age:	23 Years															
+Sex:	male	Height:	172 cm															
+		Weight:	58 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	91	17	21	329	368	1.12	25	rest									
+  01:00 	20	86	14	18	251	285	1.14	24										
+  01:30 	20	87	15	20	279	312	1.12	26										
+  02:00 	20	87	15	18	280	310	1.11	24										
+  02:30 	20	77	11	23	200	204	1.02	23	ABG @ rest			85.60	14.40	20.00	267.80	295.80	1.10	24.40
+  02:59 	20	102	19	28	368	373	1.02	26	start 60w									
+  03:30 	26	118	28	30	626	621	0.99	28										
+  04:00 	32	116	30	30	802	740	0.92	27										
+  04:30 	41	117	34	31	919	862	0.94	29										
+  05:00 	47	129	37	28	1024	1035	1.01	21										
+  05:30 	56	132	42	32	1051	1134	1.08	28										
+  06:00 	62	137	45	35	1029	1162	1.13	29	start 120w									
+  06:30 	71	150	46	31	1200	1330	1.11	27										
+  07:00 	77	160	54	38	1367	1591	1.16	29	start 135w									
+  07:30 	86	169	58	37	1429	1758	1.23	27	ABG @ 135w - submax1			164.50	56.00	37.50	1398.00	1674.50	1.20	28.00
+  08:00 	92	177	69	39	1565	2067	1.32	28	start 150w									
+  08:30 	101	182	76	44	1618	2216	1.37	29	ABG @ 150w - submax2			179.50	72.50	41.50	1591.50	2141.50	1.35	28.50
+  09:00 	104	187	75	41	1504	2114	1.41	30	ABG @ 150w - max; subject had to stop at 8:40			182.00	73.33	41.33	1562.33	2132.33	1.37	29.00

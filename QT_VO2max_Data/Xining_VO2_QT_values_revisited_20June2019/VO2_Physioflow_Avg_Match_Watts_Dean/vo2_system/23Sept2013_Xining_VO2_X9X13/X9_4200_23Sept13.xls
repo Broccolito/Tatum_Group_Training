@@ -1,0 +1,35 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X9 4200	Identification:	X9 LU XIN YIN 4200															
+First Name:	Lu Xin Ying																	
+																		
+Date of Birth:	12/10/1992	Age:	20 Years															
+Sex:	female	Height:	157 cm															
+		Weight:	49 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	95	7	25	173	157	0.91	   -    	rest									
+  01:00 	20	106	9	26	202	194	0.96	   -    										
+  01:30 	20	113	9	27	203	195	0.96	   -    										
+  02:00 	20	100	7	26	169	157	0.93	   -    	ABG @ rest			103.50	8.00	26.00	186.75	175.75	0.94	#DIV/0!
+  02:30 	20	98	7	27	150	139	0.92	   -    										
+  02:58 	20	111	10	30	222	214	0.97	   -    	start 45w									
+  03:30 	26	124	15	32	360	360	1	6										
+  04:00 	32	135	20	31	454	496	1.09	9										
+  04:30 	41	142	23	33	492	593	1.2	10										
+  05:00 	47	143	24	32	482	607	1.26	12										
+  05:30 	56	144	25	34	492	627	1.27	12										
+  06:00 	62	146	28	37	514	666	1.29	12	start 75w									
+  06:30 	71	149	30	38	539	720	1.34	12										
+  07:00 	77	152	36	42	587	846	1.44	14	ABG @ 75w - submax; start 90w			149.00	31.33	39.00	546.67	744.00	1.36	12.67
+  07:30 	86	152	38	41	615	894	1.45	14	ABG @ 90w - max			152.00	37.00	41.50	601.00	870.00	1.45	14.00
+  08:00 	92	152	44	42	666	996	1.49	15	subject stopped									
+  08:30 	98	160	32	33	498	704	1.41	15										

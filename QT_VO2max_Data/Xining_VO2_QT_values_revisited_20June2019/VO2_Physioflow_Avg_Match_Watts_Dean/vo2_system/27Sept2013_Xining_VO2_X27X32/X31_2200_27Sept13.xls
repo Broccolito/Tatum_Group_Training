@@ -1,0 +1,35 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X31 2200	Identification:	X31 2200 GASONGCUOMA															
+First Name:	GasongCuoMao 2200																	
+																		
+Date of Birth:	3/5/1995	Age:	18 Years															
+Sex:	female	Height:	170 cm															
+		Weight:	59 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	85	12	19	346	265	0.77	16	rest									
+  01:00 	20	80	11	19	282	233	0.83	15										
+  01:30 	20	80	10	18	256	210	0.82	15										
+  02:00 	20	80	12	17	300	256	0.85	17	ABG @ rest			81.25	11.25	18.25	296.00	241.00	0.82	15.75
+  02:30 	20	79	10	20	244	202	0.83	14										
+  02:59 	20	86	13	22	303	257	0.85	14	start 45w									
+  03:30 	26	106	15	27	472	343	0.73	15										
+  04:00 	32	119	21	24	720	525	0.73	20										
+  04:30 	41	127	25	26	856	678	0.79	19										
+  05:00 	47	131	28	25	902	782	0.87	20										
+  05:30 	56	130	29	25	903	821	0.91	18										
+  06:00 	62	134	29	29	894	830	0.93	18	start 90w									
+  06:30 	71	144	34	27	1026	987	0.96	19	start 105w									
+  07:00 	77	153	43	30	1211	1276	1.05	21	start 120w									
+  07:30 	86	156	52	35	1270	1467	1.16	22	ABG @ 120w - submax1			154.50	47.50	32.50	1240.50	1371.50	1.11	21.50
+  08:00 	92	162	59	35	1391	1684	1.21	23	ABG @ 120w - submax2; ABG @ 120w - max			157.00	51.33	33.33	1290.67	1475.67	1.14	22.00
+									subject could not continue at 8:05 									

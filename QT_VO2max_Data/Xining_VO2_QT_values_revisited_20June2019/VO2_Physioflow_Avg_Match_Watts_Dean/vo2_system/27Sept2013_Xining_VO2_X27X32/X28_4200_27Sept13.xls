@@ -1,0 +1,31 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X28 4200	Identification:	X28 4200 SUOLANG CUO															
+First Name:	Suolang CuoMu 4200																	
+																		
+Date of Birth:	10/8/1992	Age:	20 Years															
+Sex:	female	Height:	160 cm															
+		Weight:	59 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	94	12	22	257	234	0.91	19	rest									
+  01:00 	20	91	12	20	263	239	0.91	21										
+  01:30 	20	88	12	22	250	226	0.9	18										
+  02:00 	20	88	12	24	252	226	0.9	19	ABG @ rest			90.25	12.00	22.00	255.50	231.25	0.91	19.25
+  02:30 	20	92	12	24	253	226	0.89	17										
+  02:58 	20	116	18	29	393	363	0.92	19	start 60w									
+  03:30 	26	147	26	28	663	636	0.96	19										
+  04:00 	35	154	31	31	770	780	1.01	19										
+  04:30 	41	153	34	31	827	900	1.09	20										
+  05:00 	47	160	36	32	828	943	1.14	21										
+  05:30 	56	160	37	32	823	958	1.16	21	start 90w									
+  06:00 	62	168	45	36	914	1092	1.19	23	ABG @ 90w - submax1; start 105w			164.00	41.00	34.00	868.50	1025.00	1.18	22.00
+  06:30 	71	173	54	37	1021	1301	1.27	24	ABG @ 105w - max; subject had to stop at 6:35			170.50	49.50	36.50	967.50	1196.50	1.23	23.50

@@ -1,0 +1,34 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X32 4200	Identification:	X32 4200 SUTINGTING															
+First Name:	Su Ting Ting 4200																	
+																		
+Date of Birth:	7/23/1991	Age:	22 Years															
+Sex:	female	Height:	158 cm															
+		Weight:	48 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	97	16	28	301	277	0.92	20	rest									
+  01:00 	20	97	13	21	283	254	0.9	19										
+  01:30 	20	92	11	19	241	213	0.88	19										
+  02:00 	20	91	12	22	242	215	0.89	21	ABG @ rest			94.25	13.00	22.50	266.75	239.75	0.90	19.75
+  02:30 	20	92	13	24	259	230	0.89	22										
+  02:58 	20	104	16	23	338	309	0.91	21	start 45w									
+  03:30 	26	124	23	34	483	441	0.91	22										
+  04:00 	32	129	30	37	644	597	0.93	24										
+  04:30 	41	136	35	36	746	760	1.02	24										
+  05:00 	47	140	40	41	749	817	1.09	25										
+  05:30 	56	143	39	37	773	841	1.09	24										
+  06:00 	62	148	46	43	836	941	1.13	25	start 105w									
+  06:30 	71	156	54	47	946	1101	1.16	25	ABG @ 105w - submax1 at 6:45			152.00	50.00	45.00	891.00	1021.00	1.15	25.00
+  07:00 	80	159	65	52	1059	1325	1.25	27	ABG @ 105 - submax2; start 120w			154.33	55.00	47.33	947.00	1122.33	1.18	25.67
+  07:30 	86	0	79	57	1156	1535	1.33	29	ABG @ 120w - max			79.50	72.00	54.50	1107.50	1430.00	1.29	28.00
+  08:00 	92	0	43	30	545	768	1.41	30	Subject could not continue at 7:40									

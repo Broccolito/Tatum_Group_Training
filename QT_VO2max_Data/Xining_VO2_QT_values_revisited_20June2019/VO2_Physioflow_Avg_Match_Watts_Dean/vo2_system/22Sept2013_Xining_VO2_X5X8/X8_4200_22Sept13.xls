@@ -1,0 +1,37 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X8 4200	Identification:	X8 4200															
+First Name:	Xie Liang																	
+																		
+Date of Birth:	4/12/1991	Age:	22 Years															
+Sex:	male	Height:	171 cm															
+		Weight:	54 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	0	10	21	228	225	0.99	1	rest									
+  01:00 	20	0	8	19	190	186	0.98	2										
+  01:30 	20	0	8	22	186	181	0.98	   -    										
+  02:00 	20	0	9	21	217	208	0.96	0										
+  02:30 	20	0	9	23	201	194	0.96	   -    	ABG @ rest			0	8.8	21.2	204.4	198.8	0.974	1
+  02:57 	20	0	8	28	167	160	0.96	   -    										
+  03:00 	20	0	9	34	177	171	0.97	   -    	start 60w									
+  03:30 	26	0	12	29	298	284	0.95	   -    										
+  04:00 	32	0	19	28	506	482	0.95	8										
+  04:30 	41	0	22	31	590	598	1.01	9										
+  05:00 	47	0	24	31	598	662	1.11	9										
+  05:30 	56	0	27	31	632	729	1.15	11										
+  06:00 	62	0	30	36	665	800	1.2	12	start 90w									
+  06:30 	71	0	33	36	711	857	1.21	12										
+  07:00 	77	158	33	37	734	897	1.22	12										
+  07:30 	86	0	40	38	813	1039	1.28	13	ABG @ 90w-submax			39.5	34	36.75	730.75	898.25	1.2275	12.25
+  08:00 	92	0	44	41	862	1114	1.29	14	start 105w									
+  08:30 	101	159	47	42	900	1163	1.29	15	ABG @ 105w - max			79.5	45.5	41.5	881	1138.5	1.29	14.5
+									stopped at 8:40									

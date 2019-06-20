@@ -1,0 +1,36 @@
+CareFusion Germany 234 GmbH																		
+Leibnizstrasse 7																		
+"97204 Hoechberg, Germany"																		
+																		
+Last Name:	X26 2200	Identification:	X26 2200 ROUZENG DUJ															
+First Name:	RouZeng DuoJia 2200																	
+																		
+Date of Birth:	3/14/1990	Age:	23 Years															
+Sex:	female	Height:	167 cm															
+		Weight:	50 kg															
+																		
+																		
+Oxycon																		
+Protocol:	RA-200_IB3_BP2_EC1	Ergometer:	Bicycle															
+																		
+ Time   	 Load   	  HR    	V'E     	  BF    	 V'O2   	 V'CO2  	  RER   	VDe/VT  				 Avg HR    	Avg V'E     	Avg  BF    	Avg  V'O2   	Avg V'CO2  	Avg  RER   	 AvgVDe/VT  
+  min   	   W    	 1/min  	 L/min  	 1/min  	ml/min  	ml/min  	        	   %    										
+        	        	        	        	        	        	        	        	        										
+  00:30 	20	79	16	22	405	357	0.88	19	rest									
+  01:00 	20	77	13	19	320	284	0.89	20										
+  01:30 	20	77	13	19	333	286	0.86	20										
+  02:00 	20	75	15	21	350	309	0.88	21	ABG @ rest			77.00	14.25	20.25	352.00	309.00	0.88	20.00
+  02:30 	20	73	14	21	344	301	0.87	21										
+  02:57 	20	79	17	21	415	371	0.89	22										
+  03:00 	20	80	14	30	396	333	0.84	9	start 60w									
+  03:30 	26	102	25	26	724	613	0.85	24										
+  04:00 	32	106	28	27	849	702	0.83	25										
+  04:30 	41	109	33	26	1030	904	0.88	24										
+  05:00 	47	114	37	30	1095	1025	0.94	25										
+  05:30 	56	117	40	31	1148	1104	0.96	26										
+  06:00 	62	122	46	32	1198	1247	1.04	26	start 120w									
+  06:30 	71	129	50	31	1323	1390	1.05	26	start 150w									
+  07:00 	77	138	65	37	1635	1738	1.06	27	ABG @ 150w - submax1			133.50	57.50	34.00	1479.00	1564.00	1.06	26.50
+  07:30 	86	153	76	41	1785	1986	1.11	27	ABG @ 150w - submax2			140.00	63.67	36.33	1581.00	1704.67	1.07	26.67
+  08:00 	92	161	88	45	1883	2221	1.18	28	ABG @ 150w - max			145.25	69.75	38.50	1656.50	1833.75	1.10	27.00
+  08:30 	98	162	16	11	348	406	1.17	15	subject had to stop at 8:00									
