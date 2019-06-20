@@ -9,6 +9,8 @@
 # Simonson Lab of Physiological Genomics of Altitude Adaptation
 ##############################################################
 
+library(knitr)
+library(readxl)
 
 get_concentration_SAAN_ph = function(po2 = 55.0, 
                                      pco2 = 24.6, 
@@ -83,3 +85,44 @@ get_concentration_SAAN_ph = function(po2 = 55.0,
   return(round(concentration,4))
   
 }
+get_directory = function(){
+  args <- commandArgs(trailingOnly = FALSE)
+  file <- "--file="
+  rstudio <- "RStudio"
+  
+  match <- grep(rstudio, args)
+  if(length(match) > 0){
+    return(dirname(rstudioapi::getSourceEditorContext()$path))
+  }else{
+    match <- grep(file, args)
+    if (length(match) > 0) {
+      return(dirname(normalizePath(sub(file, "", args[match]))))
+    }else{
+      return(dirname(normalizePath(sys.frames()[[1]]$ofile)))
+    }
+  }
+}
+wd = get_directory()
+setwd(wd)
+
+data = read_xlsx("052319_Tibetan_Blood_Gas_2200.xlsx")
+# kable(data) 
+
+data = data[data$V_OR_A == "A" & data$EXERCISE == "M",]
+data$BPH = as.numeric(data$BPH)
+data$APH = as.numeric(data$APH)
+result = vector()
+for(i in 1:dim(data)[1]){
+  result = rbind(result,get_concentration_SAAN_ph(po2 = data$PO2[i], 
+                                           pco2 = data$PCO2[i],
+                                           ph = data$PH[i],
+                                           hb = data$HB[i],
+                                           hct = data$HCT[i],
+                                           temp = data$TEMP[i],
+                                           p50 = data$P50[i],
+                                           aph = data$APH[i],
+                                           bph = data$BPH[i]
+                                          ))
+}
+kable(result)
+result = as.data.frame(result)
