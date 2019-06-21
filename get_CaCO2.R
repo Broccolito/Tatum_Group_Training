@@ -1,5 +1,6 @@
 library(knitr)
 library(readxl)
+library(rstudioapi)
 
 get_concentration_SAAN_ph = function(po2 = 55.0, 
                                      pco2 = 24.6, 
@@ -115,6 +116,8 @@ for(i in 1:dim(data)[1]){
 }
 
 result = as.data.frame(result)
+
 index = seq(1,dim(data)[1])
 result = cbind.data.frame(index, result)
 kable(result)
+
