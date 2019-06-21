@@ -1,14 +1,3 @@
-##############################################################
-# Calculate Concentration from Blood Gas Datasets
-# Using APH and BPH from SAAN
-# Author: Wanjun Gu
-# Email: wag001@ucsd.edu
-# Reference: KELMAN.FOR, Wagner PD, M.D
-# University of California, San Diego
-# UCSD School of Medicine
-# Simonson Lab of Physiological Genomics of Altitude Adaptation
-##############################################################
-
 library(knitr)
 library(readxl)
 
@@ -124,5 +113,8 @@ for(i in 1:dim(data)[1]){
                                            bph = data$BPH[i]
                                           ))
 }
-kable(result)
+
 result = as.data.frame(result)
+index = seq(1,dim(data)[1])
+result = cbind.data.frame(index, result)
+kable(result)
